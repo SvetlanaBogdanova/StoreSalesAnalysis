@@ -1,0 +1,2 @@
+# StoreSalesAnalysis
+Проект анализа продаж
